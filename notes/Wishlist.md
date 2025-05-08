@@ -21,10 +21,12 @@
 - фильм ["Аэропорт"](https://en.wikipedia.org/wiki/Airport_(1970_film)) - Boeing 707 в ливрее вымышленной [Trans Global Airlines](https://www.ebay.com/itm/236076472266) хорош, жаль *немного дороговат*
 ![[236076472266.png]]
 - [столкновение над Сан-Диего](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4_%D0%A1%D0%B0%D0%BD-%D0%94%D0%B8%D0%B5%D0%B3%D0%BE); да и любые 727-е и ливрея Pacific Southwest Airlines офигенны, может что-то [подобное](https://www.eztoys.com/psa-pacific-southwest-airlines-boeing-727-100-n976ps-inflight-if721psa0523-scale-1-200.html) найдётся
+
 ![[eztoys.png]]
 ![[PSA_727.png]]
 
 Да в принципе любой Boeing крута, 747, 787, 777, 727, 707, 737. DC-9/MD-80 в старой  - с полированным лакированным алюминием, а не просто серой - ливрее American Airlines красив ([classic bare metal 1968-2013](https://www.norebbo.com/american-airlines-livery/))
+
 ![[AA_MD80.png]]
 Ливреи PanAm и KLM огонь. Ливрея самого боинга хороша, Qantas норм.
 Вот [такая штука](https://aliexpress.ru/item/1005008517965277.html?sku_id=12000045525227539)(с подсветкой) выглядит классно (если детализация на фото не обман), но ливрея херня (UPD: вот [этот](https://aliexpress.ru/item/1005008707757392.html?sku_id=12000046333437738) - красавец).
