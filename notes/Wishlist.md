@@ -25,7 +25,7 @@
 ![[eztoys.png]]
 ![[PSA_727.png]]
 
-Да в принципе любой Boeing крута, 747, 787, 777, 727, 707, 737. DC-9/MD-80 в старой  - с лакированным полированным алюминием, а не просто серой - ливрее American Airlines красив ([classic bare metal 1968-2013](https://www.norebbo.com/american-airlines-livery/)), но моделька может покрашена быть не очень
+Да в принципе любой Boeing крута, 747, 787, 777, 727, 707, 737. DC-9/MD-80 в старой  - с лакированным полированным алюминием, а не просто серой - ливрее American Airlines красив ([classic bare metal 1968-2013](https://www.norebbo.com/american-airlines-livery/)), но моделька может быть покрашена не очень, серым, а не металлик
 
 ![[AA_MD80.png]]
 Ливреи PanAm ([Globe 1958-1984](https://www.norebbo.com/pan-am-livery/), а Billboard херня) и KLM огонь. Ливрея самого боинга хороша, Qantas норм.
