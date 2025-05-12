@@ -35,13 +35,6 @@
 [Загадки авиакатастроф: истории из черного ящика | Кайдалов Антон Сергеевич](https://ozon.by/product/zagadki-aviakatastrof-istorii-iz-chernogo-yashchika-kaydalov-anton-sergeevich-1699156080)
 ##### Клавиатура
 Тут мои вкусы очень специфичны, да, ещё более, чем в предыдущих пунктах. Я не люблю мышь, я привык к тачпаду и к ножничной клавиатуре своего ноута (Samsung NP940X5N, но у самсунгов они похожие все, у очень старых только больше ход). Она вроде похожа на клавиатуры в маках тактильно, например в рабочем HP ощущается совсем по-другому, у обычной клавиатуры (Xiaomi WXJS01YM) вообще кажется ужасно большой ход клавиш. У Harper KBTCH-155 клавиши ощущаются похоже, но увы - тачпад сбоку полная херня. И увы у всех клавиатур с тачпадом он расположен так. По факту для меня идеальная клавиатура - это нижняя часть ноута, какого-нибудь самсунга или мака, я даже искал, есть ли какие-то DIY-проекты с маками [такие](https://hackaday.com/2018/12/04/teensy-liberates-the-thinkpad-keyboard/) и [такие](https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/), но увы не нашёл дешевых маков с убитым экраном. Проводная или нет неважно, если что (все равно ничего такого нет, [такая](https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/keyboards/0b47190) увы не то, да и десигн thinkpad-ов не нравится, а Microsoft Surface Pro Keyboard слишком маленькая).
-##### Аксессуары к Oculus 2
-
-- [Carrying Case](https://www.meta.com/quest/accessories/quest-2-carrying-case/)
-- [Elite Strap with Battery](https://www.meta.com/quest/accessories/quest-2-elite-strap-battery/)
-- [Active Pack](https://www.meta.com/quest/accessories/quest-2-active-pack/)
-- [Fit Pack](https://www.meta.com/quest/accessories/quest-2-fit-pack/)
-
 ##### Одноплатник
 Но очень не уверен. Было бы прикольно прикрутить экран от умершего ноута к какому-нибудь Raspberry Pi 500, но на это время надо.
 ##### Ардуино
