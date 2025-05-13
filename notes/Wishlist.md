@@ -45,6 +45,6 @@
 Что-то типа [такого](https://ozon.by/product/masshtabnaya-model-avtobusa-maz-103-1-43-zheltyy-sankt-peterburg-1302216854/) или [такого](https://minipark.by/product/avtobus-maz-203-nashi-avtobusy-42/), но с Минскими деталями (цвет, номера и т. п.)
 UPD: [ссылочка](https://minipark.by/product-category/bus/?filter_vehicle-brand=maz). Троллейбусы/трамваи вообще было бы огонь, но они кажется только у [vivascale](https://vivascale.by/portfolio/trollejbus-aksm-420/) есть.
 ##### Авиамерч ака ремувки
-- Boeing INOP, [ebay](https://www.ebay.com/itm/302375770269) (пишет, что недоступно в вашей локации), [их шоп](https://www.ebay.com/itm/302375770269)
+- Boeing INOP, [ebay](https://www.ebay.com/itm/302375770269) (пишет, что недоступно в вашей локации), [их шоп](https://www.goneflying-store.com/products/keyring-boeing-inop-tag-remove-before-flight)
 - Boeing 737 Master Caution брелок, [ebay](https://www.ebay.com/itm/396601013409) (пишет, что недоступно в вашей локации), [алиэкспресс](https://aliexpress.ru/item/1005008902698508.html?sku_id=12000047132475780)
 - Что-то из [aviationtag](https://www.aviationtag.com/en-eu), A380 мб. Хотя как-то грустно это.
