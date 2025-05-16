@@ -45,6 +45,18 @@
 Что-то типа [такого](https://ozon.by/product/masshtabnaya-model-avtobusa-maz-103-1-43-zheltyy-sankt-peterburg-1302216854/) или [такого](https://minipark.by/product/avtobus-maz-203-nashi-avtobusy-42/), но с Минскими деталями (цвет, номера и т. п.)
 UPD: [ссылочка](https://minipark.by/product-category/bus/?filter_vehicle-brand=maz). Троллейбусы/трамваи вообще было бы огонь, но они кажется только у [vivascale](https://vivascale.by/portfolio/trollejbus-aksm-420/) есть.
 ##### Авиамерч ака ремувки
-- Boeing INOP, [ebay](https://www.ebay.com/itm/302375770269) (пишет, что недоступно в вашей локации), [их шоп](https://www.goneflying-store.com/products/keyring-boeing-inop-tag-remove-before-flight)
-- Boeing 737 Master Caution брелок, [ebay](https://www.ebay.com/itm/396601013409) (пишет, что недоступно в вашей локации), [алиэкспресс](https://aliexpress.ru/item/1005008902698508.html?sku_id=12000047132475780)
+
+- Boeing INOP, [ebay](https://www.ebay.com/itm/302375770269) (пишет, что недоступно в вашей локации), [их шоп](https://www.goneflying-store.com/products/keyring-boeing-inop-tag-remove-before-flight). В shopfans сказали, что доставить не могут - "расходные материалы для воздушных судов" в списке запрещённого
+- Boeing 737 Master Caution брелок, [ebay](https://www.ebay.com/itm/396601013409) (пишет, что недоступно в вашей локации), [алиэкспресс](https://aliexpress.ru/item/1005008902698508.html?sku_id=12000047132475780). С shopfans та же история.
+- Настоящий [CIRCUIT BREAKER LOCKOUT RING](https://www.scanaerotech.com/shop/circuit-breaker-lockout-5462p.html), или на [ebay](https://www.ebay.com/itm/282766142709). Такое понятно не привезут из США
+![[circuit_inop.png]]
+- Тег-наклейка, пример на [ebay](https://www.ebay.com/itm/305381816477)
+![[inop_tag.png]]
 - Что-то из [aviationtag](https://www.aviationtag.com/en-eu), A380 мб. Хотя как-то грустно это.
+##### Мерч Criminal Minds и Mindhunter
+
+- Кружка как у героев CM - например на [ebay](https://www.ebay.com/itm/316637157638), [ещё одна](https://www.ebay.com/itm/331428858831). Но бывает отличающиеся - [с значком](https://www.ebay.com/itm/405638631414) или [без ничего](https://www.ebay.com/itm/316749397009), такое нинада. И есть маленький нюанс - штуки с эмблемой FBI попадают под запрет на экспорт (не помню точно, что именно, то ли любые федеральные агенства, то ли любые law enforcement агенства, то ли федеральные law enforcement, сейчас найти не смог, но раньше хотел купить, и обнаружил, что не получится).
+![[sm_cup1.png]]
+(s1e3, 12:49)
+![[sm_cup2.png]]
+(s2e10, 31:26)
